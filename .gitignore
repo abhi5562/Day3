@@ -1,3 +1,3 @@
-#Ignore all the .txt files
+#Ignore random text file
 
-*.txt
+random.txt
